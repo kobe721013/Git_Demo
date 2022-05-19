@@ -1,16 +1,3 @@
-function AAA
+fucntion VVV
 {
-//...
-}
-
-function BBB
-{
-//...
-//Timac fix some issue
-//Kobe fix BBB issue
-}
-
-function CCC
-{
-//....
 }
