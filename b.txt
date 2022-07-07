@@ -1,3 +1,5 @@
+KOBE add
+
 function MMM
 {
 /./...
