@@ -1,3 +1,6 @@
+function KOBEADD
+{}
+
 fucntion VVV
 {
 }
